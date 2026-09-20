@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "civil-code-of-china": {
+      "command": "npx",
+      "args": ["-y", "@jjfather/civil-code-of-china-mcp"]
+    }
+  }
+}
